@@ -1,3 +1,5 @@
+// code borrowed from https://github.com/tom-weiland/tcp-udp-networking
+
 using System.Net;
 using System.Net.Sockets;
 using System.Numerics;
